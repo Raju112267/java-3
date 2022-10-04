@@ -26,7 +26,7 @@ class Main{
             }
         }
         else{
-            System.out.println("Total Users Cannot be ZERO or NEGATIVE.");
+            System.out.println("Total Users Cannot be 0 or negitive.");
         }
 
 
