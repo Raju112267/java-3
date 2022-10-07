@@ -36,7 +36,7 @@ class bankaccount
         return rate * balance;
     }
 }
-class DAY4BANKWORKINGCLASS
+class Bankaccount
 {
     public static void main(String args[])
     {
